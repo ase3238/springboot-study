@@ -1,9 +1,6 @@
-# Default ignored files
 /shelf/
-/workspace.xml
-
-.gradle
-.idea
+/.gradle/
+/.idea/
 
 application-real-oauth.properties
 
